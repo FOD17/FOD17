@@ -14,7 +14,7 @@ I am a software developer (though sometimes I day dream about making food for a 
 - 😄 Pronouns: he/him/overloard (I signed a marriage certificate with this)
 - ⚡ Fun fact: I was once Weird Al's bodyguard for an hour or so after a performance of his
 
-<h3 align="left">Languages and Tools I am familiar with/use:</h3>
+<h3 align="left" background-color="#f0f6fc">Languages and Tools I am familiar with/use:</h3>
 <p align="left">
  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   
