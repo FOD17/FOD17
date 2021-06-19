@@ -27,3 +27,6 @@ I am a software developer (though sometimes I day dream about making food for a 
       <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="springboot" width="55" height="55"/> </a>
   
 </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=fod17&show_icons=true&locale=en" alt="fod17 stats" /></p>
