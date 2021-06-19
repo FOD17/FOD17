@@ -2,6 +2,7 @@
 
 # FOD17's Repository
 I am a software developer (though sometimes I day dream about making food for a living)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fod17&label=Profile%20views&color=0e75b6&style=flat" alt="fod17" /> </p>
 
 
 
