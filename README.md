@@ -20,7 +20,7 @@ I am a software developer (though sometimes I day dream about making food for a 
   <a href="https://developer.mozilla.org/en-US/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/></a>
    <a href="https://developer.mozilla.org/en-US/" target="_blank">  <img src="https://github.com/detain/svg-logos/blob/master/svg/css3.svg" alt="css" width="55" height="55"/></a>
   <a href="https://developer.mozilla.org/en-US/" target="_blank">  <img src="https://ultimatecourses.com/assets/category/javascript-58bb09245e2abeaf56f7db48e86fa4454c2f316a4c6c71aadaa2bdf3b206ab95.svg" alt="javascript" width="55" height="55"/></a>
-    <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="55" height="55"/> </a>
+    <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" max-width="65" height="55"/> </a>
    <a href="https://https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="got" width="55" height="55"/> </a>
      <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/springboot.svg" alt="springboot" width="55" height="55"/> </a>
