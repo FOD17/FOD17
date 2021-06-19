@@ -9,7 +9,7 @@ I am a software developer (though sometimes I day dream about making food for a 
 - 🌱 I’m currently learning **More about APIs. At work I am diving more into SpringBoot and the backend fun**
 - 💬 Ask me about **React, React Stuff, Web Development, or really anything.**
 - 📫 How to reach me: [My Twitter](https://twitter.com/Therealmarkw1) 
-- :small_red_triangle_down: Watch my content: [Jesus, Take the Compuler] (https://www.youtube.com/channel/UC9jtlMFkc_63Qor1jfgGT1g)
+- :small_red_triangle_down: Watch my content: [Jesus, Take the Compiler](https://www.youtube.com/channel/UC9jtlMFkc_63Qor1jfgGT1g)
 - 😄 Pronouns: he/him/overloard (I signed a marriage certificate with this)
 - ⚡ Fun fact: I was once Weird Al's bodyguard for an hour or so after a performance of his
 
