@@ -24,7 +24,7 @@ I am a software developer (though sometimes I day dream about making food for a 
    <a href="https://https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="got" width="55" height="55"/> </a>
      <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/springboot.svg" alt="springboot" width="55" height="55"/> </a>
-      <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="springboot" width="55" height="55"/> </a>
+      <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="springboot" max-width="65" height="55"/> </a>
   
 </p>
 
