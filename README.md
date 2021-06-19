@@ -11,7 +11,7 @@ I am a software developer (though sometimes I day dream about making food for a 
 - 💬 Ask me about **React, React Stuff, Web Development, or really anything.**
 - 📫 How to reach me: [My Twitter](https://twitter.com/Therealmarkw1) 
 - :small_red_triangle_down: Watch my content: [Jesus, Take the Compiler](https://www.youtube.com/channel/UC9jtlMFkc_63Qor1jfgGT1g)
-- 😄 Pronouns: he/him/overloard (I signed a marriage certificate with this)
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I was once Weird Al's bodyguard for an hour or so after a performance of his
 
 <h3 align="left">Languages and Tools I am familiar with/use:</h3>
