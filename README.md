@@ -17,11 +17,9 @@ I am a software developer (though sometimes I day dream about making food for a 
 <h3 align="left">Languages and Tools I am familiar with/use:</h3>
 <p align="left"  background-color="#f0f6fc">
  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  
-  <a href="https://developer.mozilla.org/en-US/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="40" height="40"/> </a>
-  
    <a href="https://https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>
   
 </p>
