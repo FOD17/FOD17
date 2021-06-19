@@ -22,5 +22,8 @@ I am a software developer (though sometimes I day dream about making food for a 
   <a href="https://developer.mozilla.org/en-US/" target="_blank">  <img src="https://ultimatecourses.com/assets/category/javascript-58bb09245e2abeaf56f7db48e86fa4454c2f316a4c6c71aadaa2bdf3b206ab95.svg" alt="javascript" width="55" height="55"/></a>
     <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="55" height="55"/> </a>
    <a href="https://https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" alt="react" width="55" height="55"/> </a>
+     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/springboot.svg" alt="react" width="55" height="55"/> </a>
+      <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="react" width="55" height="55"/> </a>
   
 </p>
